@@ -16,8 +16,8 @@ Fault Distances (FD)
 
 Faults are applied at:
 
-20 km (10%)
-50 km (25%)
-100 km (50%)
-150 km (75%)
-160 km (80%)
+1. 20 km (10%)
+2. 50 km (25%)
+3. 100 km (50%)
+4. 150 km (75%)
+5. 160 km (80%)
